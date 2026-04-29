@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <em>Backend-leaning Full Stack Developer · CS Undergrad @ LNMIIT Jaipur · Building things that actually work</em>
+  <em>Software Developer,ML Enthusiast· CS Undergrad @ LNMIIT Jaipur · Building things that actually work</em>
 </p>
 
 <p align="center">
