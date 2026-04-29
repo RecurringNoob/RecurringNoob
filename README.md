@@ -1,7 +1,6 @@
 <p align="center">
   <img src="image.png" alt="Tanmay Khandelwal Banner" width="100%" />
 </p>
-<h1 align="center">Hi, I'm Tanmay Khandelwal 👋</h1>
 
 <p align="center">
   <em>Backend-leaning Full Stack Developer · CS Undergrad @ LNMIIT Jaipur · Building things that actually work</em>
