@@ -78,12 +78,6 @@ I build systems that solve structured, real-world problems. My approach is simpl
 
 ---
 
-### 🏆 Competitive Programming
-
-* ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white) Max rating: **1166**
-* ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black) **~350 problems** solved across Codeforces, LeetCode, CSES & GFG
-
----
 
 ### 📊 GitHub Stats
 
