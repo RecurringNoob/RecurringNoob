@@ -73,7 +73,7 @@ I build systems that solve structured, real-world problems. My approach is simpl
 | Project | Stack | Description |
 |---|---|---|
 | [**CampusChat**](https://github.com/RecurringNoob/CampusChat-Frontend) | React, Node.js, WebRTC, MongoDB | University-verified real-time video chat with P2P matchmaking & JWT auth. |
-| [**Predictive Maintenance**](https://github.com/RecurringNoob/Predictive-Maintenance-For-Industrial-Machines) | FastAPI, scikit-learn, MQTT, Docker | End-to-end IoT pipeline with ML failure detection & SSE-streamed predictions. |
+| [**Predictive Maintenance**](https://github.com/RecurringNoob/Predictive-Maintainence-For-Industrial-Machines) | FastAPI, scikit-learn, MQTT, Docker | End-to-end IoT pipeline with ML failure detection & SSE-streamed predictions. |
 | [**FluxLink**](https://github.com/RecurringNoob/FluxLink) | Python, OpenCV, React, RAG, FAISS | Semantic PCB diffing tool with natural-language querying via LLM + vector store. |
 
 ---
