@@ -77,8 +77,8 @@ Dark-themed visual AI workflow builder — drag, connect, and run LLM pipelines 
 |---|---|---|
 | **CampusChat** | [tubular-puffpuff-44ddcb.netlify.app](https://tubular-puffpuff-44ddcb.netlify.app/) | React · Node.js · WebRTC · MongoDB |
 | **NextFlow** | [nextflow-peach-alpha.vercel.app](https://nextflow-peach-alpha.vercel.app/) | Next.js · React Flow · Gemini · Trigger.dev · Neon |
+| **Predictive Maintenance** | [predictive-maintainence-for-industr-five.vercel.app](https://predictive-maintainence-for-industr-five.vercel.app/) | FastAPI · scikit-learn · MQTT · Docker |
 | **Portfolio** | [tanmaykhandelwal.netlify.app](https://tanmaykhandelwal.netlify.app) | — |
-
 ---
 
 ### GitHub Stats
